@@ -1,8 +1,9 @@
-#include <stdio.h>
-
+//
+// Created by Laercio Serra (laercio.serra@gmail.com) on 29/10/2025.
 // Desafio de Xadrez - MateCheck
-// Este código inicial serve como base para o desenvolvimento do sistema de movimentação das peças de xadrez.
-// O objetivo é utilizar estruturas de repetição e funções para determinar os limites de movimentação dentro do jogo.
+// Niveis: novato, aventureiro e mestre
+//
+#include <stdio.h>
 
 int main() {
     // Nível Novato - Movimentação das Peças
